@@ -1,0 +1,13 @@
+/* Footer lies within body */
+body {
+    /* background-color: #3b2f92; */
+    color: #f8f8ff ;
+    background-image: url(/Black_Zero.jpg);
+    background-size: cover;
+}
+
+footer{
+    text-align: center;
+    color: #fffff0;
+}
+/* Footer lies within body */

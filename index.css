@@ -13,6 +13,18 @@ html {
   height: 100%;
 }
 
+a {
+  color: aliceblue;
+}
+
+a:visited {
+  color: lightgray;
+}
+
+a:hover, a:active {
+  color: #eee;
+}
+
 footer {
   text-align: center;
   color: #e5e4e2;

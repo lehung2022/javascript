@@ -1,28 +1,28 @@
 /* Footer lies within body */
-body,
-html {
+body
+{
   height: 100%;
   margin: 0;
-  background-color: #0b0b0b;
+  background-color: #d7d7d7;
+  color: rgb(30, 30, 30);
 }
 
-.bg {
-  color: #e5e4e2;
-
-  /* Full height */
-  height: 100%;
+html {
+  font-size: 22px;
 }
+
+
 
 a {
-  color: aliceblue;
+  color: rgb(7, 52, 92);
 }
 
 a:visited {
-  color: lightgray;
+  color: rgb(146, 86, 18);
 }
 
 a:hover, a:active {
-  color: #eee;
+  color: #4c1293;
 }
 
 footer {

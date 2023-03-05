@@ -31,7 +31,7 @@ footer {
 }
 
 table, tr, th, td, caption {
-  border: 1px solid #eee;
+  border: 1px solid #2d2c2c;
   font-family: 'Courier New', Courier, monospace;
   border-collapse: collapse;
   padding: 0.5rem;
